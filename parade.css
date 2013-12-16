@@ -1,0 +1,22 @@
+/* CSS declarations go here */
+body{
+
+	background: #2A2C39;
+	font: 400 36px/1.4 "cardo";
+	color: #E9E9EB;
+	font-style: italic;
+}
+
+h2 {
+
+	font-weight: normal;
+}
+
+section {
+
+	width:700px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+
+}
